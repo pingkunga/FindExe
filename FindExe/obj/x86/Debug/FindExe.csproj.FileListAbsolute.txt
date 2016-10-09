@@ -1,0 +1,10 @@
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\bin\Debug\FindExe.exe
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\bin\Debug\FindExe.pdb
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.Properties.Resources.resources
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.FindExeForm.resources
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.csproj.GenerateResource.Cache
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.exe
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.pdb
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\bin\Debug\FindExe.exe.config
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\obj\x86\Debug\FindExe.csprojResolveAssemblyReference.cache
+C:\Users\Chatr_000\Desktop\Refactor\FindExe\FindExe\bin\Debug\ExtendedErrorProviderCSharp.dll
